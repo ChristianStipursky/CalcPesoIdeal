@@ -1,0 +1,10 @@
+D:\csharpapps\d11\d11\bin\Debug\d11.exe.config
+D:\csharpapps\d11\d11\bin\Debug\d11.exe
+D:\csharpapps\d11\d11\bin\Debug\d11.pdb
+D:\csharpapps\d11\d11\obj\Debug\d11.csproj.AssemblyReference.cache
+D:\csharpapps\d11\d11\obj\Debug\d11.Form1.resources
+D:\csharpapps\d11\d11\obj\Debug\d11.Properties.Resources.resources
+D:\csharpapps\d11\d11\obj\Debug\d11.csproj.GenerateResource.cache
+D:\csharpapps\d11\d11\obj\Debug\d11.csproj.CoreCompileInputs.cache
+D:\csharpapps\d11\d11\obj\Debug\d11.exe
+D:\csharpapps\d11\d11\obj\Debug\d11.pdb
